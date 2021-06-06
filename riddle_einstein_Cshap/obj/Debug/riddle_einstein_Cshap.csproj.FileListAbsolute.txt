@@ -1,0 +1,7 @@
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\bin\Debug\riddle_einstein_Cshap.exe.config
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\bin\Debug\riddle_einstein_Cshap.exe
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\bin\Debug\riddle_einstein_Cshap.pdb
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\obj\Debug\riddle_einstein_Cshap.csproj.AssemblyReference.cache
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\obj\Debug\riddle_einstein_Cshap.csproj.CoreCompileInputs.cache
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\obj\Debug\riddle_einstein_Cshap.exe
+C:\Users\Leste\source\repos\riddle_einstein_Cshap\riddle_einstein_Cshap\obj\Debug\riddle_einstein_Cshap.pdb
